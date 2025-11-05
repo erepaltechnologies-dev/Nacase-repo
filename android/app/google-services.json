@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "795176445971",
+    "project_id": "dlawhq-a7ee7",
+    "storage_bucket": "dlawhq-a7ee7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795176445971:android:0b3c51251f8002afc477e6",
+        "android_client_info": {
+          "package_name": "com.dlawhq"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiYOUT9U67Rn7vYsJZPVpOTvuE2LX6cRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

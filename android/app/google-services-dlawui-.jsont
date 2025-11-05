@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "172410845969",
+    "project_id": "dlawapp",
+    "storage_bucket": "dlawapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172410845969:android:b08c74a0fd972550ef2ab0",
+        "android_client_info": {
+          "package_name": "com.example.dlawui"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrX3MypOgS9Zy13pZG3rEBWRFFfMm_K18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
